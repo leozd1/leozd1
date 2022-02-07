@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## **Oie 👋, sou a Leonice e isso é um pouco sobre mim **  
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é LEonice e isso é um pouco sobre mim:</h1></img>
+
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Leonice e isso é um pouco sobre mim:</h1></img>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 [![card](https://github-readme-stats.vercel.app/api?username=leozd1&theme=default&show_icons=true)](https://github.com/leozd1/)
