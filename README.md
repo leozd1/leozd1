@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Leonice e isso é um pouco sobre mim:</h1></img>
 
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hardware.
+- 🎓 &nbsp; Graduada em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.suafaculdade.com.br/fapan/">FAPAN</a>.
+- 💼 &nbsp; Trabalhando como **DESENVOLVEDORA**
+- 🌱 &nbsp; Aprendendo mais sobre **PYTHON e SUAS VERSATILIDADES**.
+
 <img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 <p align="center">
   <a href="https://github.com/leozd1">
@@ -35,19 +40,25 @@ Here are some ideas to get you started:
 </p>
 
 ## **Linguagens e Ferramentas Mais Usadas:** 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
+## **Minhas Redes Sociais:**
 <img src="BadgeURLAqui" />
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
-
+<h3 align="right"><img src="https://www.imagensanimadas.com/data/media/1667/globo-terrestre-imagem-animada-0027.gif" width="25px">Onde me encontrar:</h3></img>
 
 
