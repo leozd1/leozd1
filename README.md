@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hardware.
 - 🎓 &nbsp; Graduada em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.suafaculdade.com.br/fapan/">FAPAN</a>.
 - 💼 &nbsp; Trabalhando como **DESENVOLVEDORA**
-- 🌱 &nbsp; Aprendendo mais sobre **PYTHON e SUAS VERSATILIDADES**.
+- 🌱 &nbsp; Aprendendo mais sobre **PYTHON e SUAS VERSATILIDADES**
+- 😄 &nbsp; Desenvolvendo habilidades gráficas com **BLENDER**.
 
 <img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 <p align="center">
