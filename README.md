@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
 <img src="BadgeURLAqui" />
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
 <h3 align="left"><img src="https://www.imagensanimadas.com/data/media/1667/globo-terrestre-imagem-animada-0027.gif" width="25px">Onde me encontrar:</h3></img>
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Leonice Queiroz](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=leozd1)](https://www.linkedin.com/in/leonice-queiroz-880181126/)
+[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leozd1@outlook.com)
+[![GitHub LEOZD1]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/leozd1)
 
 
 
