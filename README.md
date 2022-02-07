@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 <h3 align="left"><img src="https://www.imagensanimadas.com/data/media/1667/globo-terrestre-imagem-animada-0027.gif" width="25px">Onde me encontrar:</h3></img>
 
-[![Linkedin: Leonice Queiroz](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=leozd1)](https://www.linkedin.com/in/leonice-queiroz-880181126/)
-[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leozd1@outlook.com)
+[![Linkedin: Leonice Queiroz](https://img.shields.io/badge/-Leonice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonice-queiroz-880181126)](https://www.linkedin.com/in/leonice-queiroz-880181126/)
 [![GitHub LEOZD1]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/leozd1)
+[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leozd1@outlook.com)
 
 
 
