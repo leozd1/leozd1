@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Leonice e isso é um pouco sobre mim:</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Leonice e um pouco sobre mim:</h1></img>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hardware.
 - 🎓 &nbsp; Graduada em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.suafaculdade.com.br/fapan/">FAPAN</a>.
