@@ -22,24 +22,6 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Aprendendo mais sobre **PYTHON e SUAS VERSATILIDADES**
 - 😄 &nbsp; Desenvolvendo habilidades gráficas com **BLENDER**.
 
-<img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<p align="center">
-  <a href="https://github.com/leozd1">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=leozd1&theme=default&show_icons=true"
-    />
-  </a>
-  <a href="https://github.com/leozd1">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozd1&hide=html&layout=compact=true&theme=default"
-    />
-  </a>
-</p>
-
 ## **Linguagens e Ferramentas Mais Usadas:** 
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
